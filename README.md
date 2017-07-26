@@ -21,3 +21,11 @@ Agradecimentos ao [@SrMouraSilva](https://github.com/SrMouraSilva) pela arte.
 ### Revisão 2
 
 ![SanUSB PIC18F2550 Revisão 2](placa/SanUSB_PIC18F2550_-_Revisao_2.png)
+
+## Papéis de parede
+
+Agradecimentos ao [@SrMouraSilva](https://github.com/SrMouraSilva) pela arte.
+
+![Placa SanUSB disposta sobre pedras de jardim](wallpaper/pedra.jpg)
+
+![Placa SanUSB disposta sobre uma mesa de pinho](wallpaper/madeira.jpg)
