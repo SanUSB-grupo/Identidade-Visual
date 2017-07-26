@@ -10,12 +10,14 @@ Utilize os arquivos em suas apresentações e projetos envolvendo SanUSB!
 
 ## Placa SanUSB PIC18F2550
 
+Para as imagens originais vetoriais, acesse o diretório [placa/](placa/).
+
 Agradecimentos ao [@SrMouraSilva](https://github.com/SrMouraSilva) pela arte.
 
 ### Revisão 1
 
-![SanUSB PIC18F2550 Revisão 1](SanUSB_PIC18F2550_-_Revisao_1.svg)
+![SanUSB PIC18F2550 Revisão 1](placa/SanUSB_PIC18F2550_-_Revisao_1.png)
 
 ### Revisão 2
 
-![SanUSB PIC18F2550 Revisão 2](SanUSB_PIC18F2550_-_Revisao_2.svg)
+![SanUSB PIC18F2550 Revisão 2](placa/SanUSB_PIC18F2550_-_Revisao_2.png)
